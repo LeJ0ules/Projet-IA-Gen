@@ -1,0 +1,115 @@
+{
+  "top_skills": [
+    {
+      "skill_id": "C141",
+      "skill_name": "Analyse de données (Excel, SQL, outils de BI)",
+      "block_name": "Finance et Comptabilité",
+      "score": 0.49
+    },
+    {
+      "skill_id": "C007",
+      "skill_name": "Préparation de données (Nettoyage, Valeurs manquantes, ETL)",
+      "block_name": "Développement",
+      "score": 0.48
+    },
+    {
+      "skill_id": "C008",
+      "skill_name": "Analyse de données (EDA, Statistiques descriptives)",
+      "block_name": "Data Analysis & BI",
+      "score": 0.47
+    },
+    {
+      "skill_id": "C017",
+      "skill_name": "Recherche Scientifique et Prototypage",
+      "block_name": "Recherche & Méthode",
+      "score": 0.47
+    },
+    {
+      "skill_id": "C010",
+      "skill_name": "Visualisation de données et Tableaux de bord",
+      "block_name": "Data Analysis & BI",
+      "score": 0.46
+    },
+    {
+      "skill_id": "C009",
+      "skill_name": "Statistiques avancées et Mathématiques",
+      "block_name": "Data Analysis & BI",
+      "score": 0.46
+    },
+    {
+      "skill_id": "C061",
+      "skill_name": "Cartographie et analyse des processus",
+      "block_name": "Stratégie & Gestion de projet",
+      "score": 0.46
+    }
+  ],
+  "top_jobs": [
+    {
+      "job_title": "Business Intelligence Engineer",
+      "score": 0.87,
+      "required_competencies": [
+        "C006",
+        "C008",
+        "C010",
+        "C016",
+        "C034",
+        "C061",
+        "C074",
+        "C075",
+        "C096",
+        "C097",
+        "C098",
+        "C101",
+        "C140",
+        "C141",
+        "C142",
+        "C146"
+      ]
+    },
+    {
+      "job_title": "Data Scientist",
+      "score": 0.86,
+      "required_competencies": [
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C011",
+        "C012",
+        "C013",
+        "C017",
+        "C018",
+        "C034",
+        "C053",
+        "C054",
+        "C090",
+        "C103",
+        "C141",
+        "C147"
+      ]
+    },
+    {
+      "job_title": "Data Analyst",
+      "score": 0.81,
+      "required_competencies": [
+        "C006",
+        "C007",
+        "C008",
+        "C010",
+        "C034",
+        "C053",
+        "C074",
+        "C075",
+        "C095",
+        "C096",
+        "C097",
+        "C098",
+        "C101",
+        "C117",
+        "C141",
+        "C146",
+        "C172"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600;700&display=swap');
+
+/* Base */
+html, body, [class*="css"] {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #F7F8FC;
+    color: #1A1D2E;
+}
+
+/* Hero Header */
+.hero-header {
+    background: linear-gradient(135deg, #063A27 0%, #0A5C36 60%, #10894C 100%);
+    padding: 2.5rem 3rem 2rem;
+    border-radius: 16px;
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+}
+.hero-header::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(16,137,76,0.4) 0%, transparent 70%);
+    border-radius: 50%;
+}
+.hero-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #FFFFFF !important;
+    margin: 0 0 0.3rem 0;
+    letter-spacing: -0.5px;
+}
+
+.hero-subtitle {
+    font-size: 1rem;
+    color: rgba(255,255,255,0.65);
+    font-weight: 300;
+    margin: 0;
+    letter-spacing: 0.3px;
+}
+.hero-badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    color: #86EFAC;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.7rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+    background: #FFFFFF;
+    padding: 8px;
+    border-radius: 12px;
+    border: 1px solid #E4E7F0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.stTabs [data-baseweb="tab"] {
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-weight: 500;
+    color: #6B7280;
+    background: transparent;
+    font-size: 0.9rem;
+    border: none;
+}
+.stTabs [aria-selected="true"] {
+    background: linear-gradient(135deg, #063A27, #0A5C36) !important;
+    color: #FFFFFF !important;
+    font-weight: 600;
+}
+
+/* Bloc compétences (expander) */
+.stExpander {
+    background: #FFFFFF;
+    border: 1px solid #E4E7F0;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+}
+.stExpander > details > summary {
+    font-weight: 600;
+    font-size: 0.97rem;
+    padding: 1rem 1.2rem;
+    color: #1A1D2E;
+}
+
+/* Cartes métier */
+.job-card {
+    background: #FFFFFF;
+    border: 1px solid #E4E7F0;
+    border-radius: 14px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    height: 100%;
+}
+.job-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.09);
+}
+.job-card-rank {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    color: #10894C;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+.job-card-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #063A27;
+    margin-bottom: 0.4rem;
+}
+.job-card-score {
+    font-family: 'Space Mono', monospace;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0A5C36;
+}
+.job-card-label {
+    font-size: 0.78rem;
+    color: #9CA3AF;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+.job-card-tags {
+    margin-top: 0.9rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+}
+.tag {
+    background: #ECFDF5;
+    color: #047857;
+    font-size: 0.72rem;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+/* Bouton principal */
+.stButton > button[kind="primary"] {
+    background: linear-gradient(135deg, #063A27 0%, #0A5C36 100%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 0.65rem 2.2rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+    letter-spacing: 0.3px;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 14px rgba(6, 58, 39, 0.3);
+}
+.stButton > button[kind="primary"]:hover {
+    box-shadow: 0 6px 20px rgba(6, 58, 39, 0.45);
+    transform: translateY(-1px);
+}
+
+/* Section GenAI */
+.genai-panel {
+    background: linear-gradient(135deg, #F0FDF4 0%, #DCFCE7 100%);
+    border: 1px solid #86EFAC;
+    border-radius: 14px;
+    padding: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+.genai-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #063A27;
+    margin-bottom: 0.4rem;
+    letter-spacing: -0.2px;
+}
+.genai-content {
+    font-size: 0.92rem;
+    line-height: 1.75;
+    color: #374151;
+    white-space: pre-wrap;
+}
+
+/* Avertissement */
+.warning-box {
+    background: #FFFBEB;
+    border-left: 4px solid #F59E0B;
+    border-radius: 8px;
+    padding: 1rem 1.4rem;
+    color: #92400E;
+    font-size: 0.9rem;
+}
+
+/* Séparateur stylisé */
+.section-divider {
+    border: none;
+    border-top: 1px solid #E4E7F0;
+    margin: 1.5rem 0;
+}
+
+/* Step indicator */
+.step-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #063A27;
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-size: 0.72rem;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+}

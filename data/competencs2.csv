@@ -1,0 +1,179 @@
+CompetencyID,Competency,BlockID,BlockName
+C001,"Installation et raccordement (Fibre, Cuivre, Coaxial)",5,Infrastructure Cloud Réseaux
+C002,Maintenance et dépannage pannes client,5,Infrastructure Cloud Réseaux
+C003,Lecture de plans et schémas techniques,5,Infrastructure Cloud Réseaux
+C004,"Utilisation d’outils de mesure (OTDR, PM, PTO)",17,Outils Techniques & Terrain
+C005,Configuration d’équipements et suivi d’interventions,17,Outils Techniques & Terrain
+C006,"Programmation (Python, C++, SQL)",1,Développement
+C007,"Préparation de données (Nettoyage, Valeurs manquantes, ETL)",1,Développement
+C008,"Analyse de données (EDA, Statistiques descriptives)",2,Data Analysis & BI
+C009,Statistiques avancées et Mathématiques,2,Data Analysis & BI
+C010,Visualisation de données et Tableaux de bord,2,Data Analysis & BI
+C011,"Apprentissage automatique (Algorithmes, Théorie, Évaluation)",3,Intelligence Artificielle
+C012,Apprentissage profond et architectures (Réseaux de neurones),3,Intelligence Artificielle
+C013,"IA Spécialisée (NLP, Vision par ordinateur)",3,Intelligence Artificielle
+C014,"MLOps et Déploiement (APIs, CI/CD, Monitoring)",5,Infrastructure Cloud Réseaux
+C015,"Plateformes Cloud (AWS, GCP, Azure)",5,Infrastructure Cloud Réseaux
+C016,"Architecture Big Data (Spark, Hadoop, NoSQL)",5,Infrastructure Cloud Réseaux
+C017,Recherche Scientifique et Prototypage,18,Recherche & Méthode
+C018,Expérimentation et Tests A/B,18,Recherche & Méthode
+C019,"Sécurité, Normes et Procédures",6,Sécurité risque et conformité
+C020,"Communication (Client, Storytelling, Publication)",20,Soft Skills
+C021,Collaboration d'équipe et Gestion du temps,20,Soft Skills
+
+C022,Conception logicielle et modèles d'architecture,1,Développement
+C023,Programmation orientée objet (POO),1,Développement
+C024,Structures de données et algorithmes,1,Développement
+C025,Concepts de systèmes distribués,1,Développement
+C026,HTML/CSS et Design réactif,1,Développement
+C027,"JavaScript et gestion d'état (Redux, Context API)",1,Développement
+C028,"Frameworks Front-end (React, Angular, Vue)",1,Développement
+C029,"Programmation mobile (Swift, Kotlin, Java)",1,Développement
+C030,"Frameworks mobiles (Flutter, React Native)",1,Développement
+C031,"Déploiement d'applications (App Store, Google Play)",1,Développement
+C032,"Programmation côté serveur (Java, Python, Node.js)",1,Développement
+C033,"Conception et développement d'API (REST, GraphQL)",1,Développement
+C034,Conception et gestion de bases de données (SQL/NoSQL),4,Stockage de Données
+C035,"Bases de données spécifiques au mobile (SQLite, Realm)",4,Stockage de Données
+C036,"Plateformes Cloud (Services cœurs AWS, GCP, Azure)",5,Infrastructure Cloud Réseaux
+C037,"Infrastructure en tant que code (Terraform, CloudFormation)",5,Infrastructure Cloud Réseaux
+C038,"Conteneurisation et orchestration (Docker, Kubernetes)",5,Infrastructure Cloud Réseaux
+C039,"Pipelines CI/CD (Jenkins, GitLab CI, GitHub Actions)",5,Infrastructure Cloud Réseaux
+C040,"Administration système (Windows, Linux, macOS)",5,Infrastructure Cloud Réseaux
+C041,"Configuration réseau (Routage, Commutation, VPC)",5,Infrastructure Cloud Réseaux
+C042,"Virtualisation de serveurs (VMware, Hyper-V)",5,Infrastructure Cloud Réseaux
+C043,"Sécurité réseau (Pare-feu, IDS/IPS, VPN)",6,Sécurité risque et conformité
+C044,Sécurité applicative et tests d'intrusion (OWASP),6,Sécurité risque et conformité
+C045,Gestion des identités et des accès (IAM),6,Sécurité risque et conformité
+C046,Chiffrement et cryptographie,6,Sécurité risque et conformité
+C047,"Tests (Unitaires, Intégration, UI, E2E)",7,Qualité & Audit
+C048,Optimisation des performances et réglages,7,Qualité & Audit
+C049,"Surveillance et journalisation (Prometheus, ELK, CloudWatch)",6,sécurité risque et conformité
+C050,Reprise après sinistre et stratégies de sauvegarde,6,Sécurité risque et conformité
+C051,Dépannage matériel et logiciel,15,Support Technique
+C052,Systèmes de tickets et flux de support,15,Support Technique
+C053,Gestion de versions (Git),16,Outils & Systèmes
+C054,"Scripting et automatisation (Python, Bash, PowerShell)",16,Outils & Systèmes
+C055,Collaboration au sein d'équipes Agile/DevOps,20,Soft Skills
+C056,Service client et compétences en communication,20,Soft Skills
+
+C057,"Leadership d'équipe, supervision et coaching",20,Soft Skills
+C058,Formation et développement du personnel,20,Soft Skills
+C059,Gestion de projet et gestion du changement,10,Stratégie & Gestion de projet
+C060,Gestion budgétaire et contrôle des coûts,10,Stratégie & Gestion de projet
+C061,Cartographie et analyse des processus,10,Stratégie & Gestion de projet
+C062,Méthodologies Lean et Six Sigma,10,Stratégie & Gestion de projet
+C063,Analyse des causes racines et résolution de problèmes,10,Stratégie & Gestion de projet
+C064,Mise en œuvre d'améliorations de processus,10,Stratégie & Gestion de projet
+C065,Prévision et planification de la demande,11,Opérations & Logistique
+C066,"Suivi, contrôle et réapprovisionnement des stocks",11,Opérations & Logistique
+C067,Gestion et optimisation du stock de sécurité,11,Opérations & Logistique
+C068,Gestion des opérations d'entrepôt,11,Opérations & Logistique
+C069,Planification et suivi de la logistique et des expéditions,11,Opérations & Logistique
+C070,Planification et optimisation d'itinéraires,11,Opérations & Logistique
+C071,Sélection des transporteurs et gestion des fournisseurs,11,Opérations & Logistique
+C072,Gestion de flotte et d'actifs,11,Opérations & Logistique
+C073,Traitement des commandes et documentation,11,Opérations & Logistique
+C074,"Suivi des performances (KPI, métriques, reporting)",2,Data Analysis & BI
+C075,Prise de décision basée sur les données et saisie,2,Data Analysis & BI
+C076,"Utilisation de logiciels ERP, TMS et Supply Chain",2,Data Analysis & BI
+C077,"Conformité santé, sécurité et environnement (HSE)",6,Sécurité risque et conformité
+C078,"Conformité réglementaire (Lois de transport, normes)",6,Sécurité risque et conformité
+C079,Communication avec les parties prenantes (internes/externes),20,Soft Skills
+C080,Collaboration interfonctionnelle et négociation,20,Soft Skills
+
+C081,Développement de stratégies de marketing et de croissance,10,Stratégie & Gestion de projet
+C082,Gestion de marque et positionnement,10,Stratégie & Gestion de projet
+C083,Assortiment de produits et planification de catégories,9,Marketing Growth & Ventes
+C084,Stratégie de prix et optimisation des marges,9,Marketing Growth & Ventes
+C085,Expertise produit/service et connaissance du secteur,9,Marketing Growth & Ventes
+C086,Marketing par moteur de recherche (SEO & SEM/PPC),9,Marketing Growth & Ventes
+C087,Réseaux sociaux et marketing de contenu (Rédaction),9,Marketing Growth & Ventes
+C088,"Marketing par e-mail et automatisation du marketing (HubSpot, Mailchimp)",9,Marketing Growth & Ventes
+C089,"Stratégies d'acquisition, de rétention et d'engagement des utilisateurs",9,Marketing Growth & Ventes
+C090,Expérimentation basée sur les données (Tests A/B) et CRO,9,Marketing Growth & Ventes
+C091,Stratégie de vente et planification des comptes,9,Marketing Growth & Ventes
+C092,Gestion de la relation client (CRM),9,Marketing Growth & Ventes
+C093,Gestion de la relation vendeur/fournisseur,9,Marketing Growth & Ventes
+C094,"Négociation, conclusion de contrats et d'accords",9,Marketing Growth & Ventes
+C095,Études de marché et analyse de la concurrence,2,Data Analysis & BI
+C096,"Suivi des performances (KPI, ROI, Métriques)",2,Data Analysis & BI
+C097,"Analyse des données de vente, prévisions et pipeline",2,Data Analysis & BI
+C098,"Outils et automatisation (Google Analytics, Salesforce, SQL, BI)",16,Outils & Systèmes
+C099,Optimisation des processus pour les opérations de vente/marketing,9,Marketing Growth & Ventes
+C100,Leadership et gestion d'équipe,20,Soft Skills
+C101,"Compétences en communication, présentation et reporting",20,Soft Skills
+C102,Collaboration avec les parties prenantes (internes et externes),20,Soft Skills
+C103,Résolution de problèmes de croissance et opérationnels,20,Soft Skills
+
+C104,Connaissances en conformité et réglementation,20,Soft Skills
+C105,Dépannage technique (matériel/logiciel),15,Support Technique
+C106,Diagnostic de problèmes et analyse des causes racines,15,Support Technique
+C107,Gestion des problèmes clients hautement prioritaires et difficiles,20,Soft Skills
+C108,Processus d'escalade et stratégie de résolution,20,Soft Skills
+C109,Connaissance technique des produits/services,8,Produit & CX
+C110,Cartographie du parcours client,8,Produit & CX
+C111,Commentaires des clients et analyse des sentiments,8,Produit & CX
+C112,Amélioration des processus pour la prestation de services,11,Opérations & Logistique
+C113,Gestion de projet pour les initiatives CX,11,Opérations & Logistique
+C114,Gestion du temps et priorisation,11,Opérations & Logistique
+C115,Systèmes de tickets et outils de support à distance (RDP),16,Outils & Systèmes
+C116,"Documentation des problèmes, solutions et rapports",16,Outils & Systèmes
+C117,"Suivi des performances (CSAT, NPS, temps de résolution)",2,Data Analysis & BI
+C118,"Communication client, empathie et attention",20,Soft Skills
+C119,Compétences en communication et présentation,20,Soft Skills
+C120,"Leadership d'équipe, coaching et coordination",20,Soft Skills
+C121,Collaboration interfonctionnelle (Produit/Ingénierie/Ventes),20,Soft Skills
+
+C122,"Conformité aux politiques, procédures et réglementations",20,Soft Skills
+C123,"Planification financière, modélisation et stratégie",12,Finance et Comptabilité
+C124,"Budgétisation, prévisions et analyse des écarts",12,Finance et Comptabilité
+C125,Analyse des performances commerciales et aide à la décision,19,Partenariats
+C126,Contrôle des coûts et gestion budgétaire,19,Partenariats
+C127,"Comptabilité générale (AP/AR, Rapprochements)",12,Finance et Comptabilité
+C128,Préparation d'états financiers et rapports,12,Finance et Comptabilité
+C129,Conformité aux principes et normes comptables,12,Finance et Comptabilité
+C130,"Conformité fiscale, déclarations et rapports juridiques",12,Finance et Comptabilité
+C131,"Planification, exécution et test d'audit interne",7,Qualité & Audit
+C132,Évaluation des risques et évaluation des contrôles,7,Qualité & Audit
+C133,Tests de contrôles internes et révision des processus,7,Qualité & Audit
+C134,Détection de fraude et analyse de données d'audit,7,Qualité & Audit
+C135,"Rédaction, révision et gestion de contrats",13,Juridique
+C136,Connaissances en droit des sociétés et droit commercial,13,Juridique
+C137,"Recherche, analyse et conseil juridiques",13,Juridique
+C138,Conformité réglementaire et normes,13,Juridique
+C139,Négociation et résolution de litiges,13,Juridique
+C140,"Utilisation de logiciels ERP, de comptabilité et de BI",12,Finance et Comptabilité
+C141,"Analyse de données (Excel, SQL, outils de BI)",12,Finance et Comptabilité
+C142,Suivi des performances (KPI financiers),12,Finance et Comptabilité
+C143,Amélioration des processus et automatisation en finance,11,Opérations & Logistique
+C144,"Éthique, indépendance et responsabilité professionnelle",20,Soft Skills
+C145,Leadership d'équipe et gestion des parties prenantes,20,Soft Skills
+C146,Présentation d'analyses et communication,20,Soft Skills
+C147,Attention aux détails et pensée critique,20,Soft Skills
+
+C148,Collaboration entre départements,20,Soft Skills
+C149,Surveillance de la conformité réglementaire et des lois,6,Sécurité risque et conformité
+C150,Développement et mise en œuvre de politiques internes,6,Sécurité risque et conformité
+C151,Évaluation et atténuation des risques d'entreprise,6,Sécurité risque et conformité
+C156,Analyse quantitative des risques et tests de résistance,6,Sécurité risque et conformité
+C157,"Audits de conformité, contrôles et enquêtes",7,Qualité & Audit
+C158,Gestion de crise et planification de l'intervention,7,Qualité & Audit
+C159,Alignement de la stratégie RH et partenariat commercial,14,RH
+C160,Relations avec les employés et droit du travail,14,RH
+C161,Gestion des talents et planification de la relève,14,RH
+C162,Gestion de la performance et processus d'évaluation,14,RH
+C163,Gestion du changement et soutien organisationnel,14,RH
+C164,Stratégie de recrutement et planification des effectifs,14,RH
+C165,"Sourcing, attraction et marque employeur",14,RH
+C167,"Entretien, évaluation et expérience candidat",14,RH
+C168,Stratégie d'apprentissage et analyse des besoins,14,RH
+C169,Conception pédagogique et gestion de programme,14,RH
+C170,"Coaching, facilitation et développement du leadership",14,RH
+C171,"Systèmes RH et de recrutement (LMS, ATS, SIRH)",14,RH
+C172,"Analyse de données et rapports (KPI, conclusions d'audit)",14,RH
+C173,"Éthique, intégrité et normes professionnelles",6,Sécurité risque et conformité
+C174,"Compétences en communication, négociation et influence",20,Soft Skills
+C175,Collaboration avec les parties prenantes et interfonctionnelle,20,Soft Skills
+C176,"Compétences en formation, sensibilisation et présentation",20,Soft Skills
+C177,Prise de décision en situation d'incertitude,20,Soft Skills

@@ -1,0 +1,35 @@
+{
+  "sections": {
+    "data_ia": {
+      "scores": {
+        "q1": 5,
+        "q2": 5,
+        "q3": "Intermédiaire"
+      },
+      "facts": {
+        "q4": [],
+        "q6": 4,
+        "q7": "Data Scientist"
+      },
+      "text_entries": {},
+      "sentences": [
+        "niveau global en préparation et manipulation de données (Nettoyage, pipelines ETL/ELT, statistiques) : 5",
+        "degré de maîtrise en modélisation algorithmique (Machine Learning, Deep Learning, NLP ou Computer Vision) : 5",
+        "capacité à restituer la donnée pour orienter les décisions stratégiques : Intermédiaire",
+        "4 années d'expérience en data ia",
+        "ma dernière fonction était Data Scientist"
+      ]
+    }
+  },
+  "domaines_actifs": [
+    "📊 Data / IA"
+  ],
+  "sentences": [
+    "niveau global en préparation et manipulation de données (Nettoyage, pipelines ETL/ELT, statistiques) : 5",
+    "degré de maîtrise en modélisation algorithmique (Machine Learning, Deep Learning, NLP ou Computer Vision) : 5",
+    "capacité à restituer la donnée pour orienter les décisions stratégiques : Intermédiaire",
+    "4 années d'expérience en data ia",
+    "ma dernière fonction était Data Scientist"
+  ],
+  "profile_text": "niveau global en préparation et manipulation de données (Nettoyage, pipelines ETL/ELT, statistiques) : 5 degré de maîtrise en modélisation algorithmique (Machine Learning, Deep Learning, NLP ou Computer Vision) : 5 capacité à restituer la donnée pour orienter les décisions stratégiques : Intermédiaire 4 années d'expérience en data ia ma dernière fonction était Data Scientist"
+}

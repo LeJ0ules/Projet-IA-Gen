@@ -1,0 +1,49 @@
+{
+  "domaines_actifs": [
+    "📊 Data / IA"
+  ],
+  "marketing_vente": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "relation_client": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "finance_legal_rh": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "autres_fonctions": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "produit_business": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "logistique_supply": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "infra_ops": {
+    "_status": "ignoré",
+    "_score_global": 0
+  },
+  "data_ia": {
+    "data_ia_q1": 5,
+    "data_ia_q2": 5,
+    "data_ia_q3": "Intermédiaire",
+    "data_ia_q4": [],
+    "data_ia_q5": "",
+    "data_ia_q6": 4,
+    "data_ia_q7": "Data Scientist",
+    "data_ia_q8": "",
+    "data_ia_q9": "",
+    "data_ia_q10": ""
+  },
+  "tech_it": {
+    "_status": "ignoré",
+    "_score_global": 0
+  }
+}

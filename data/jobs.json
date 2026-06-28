@@ -1,0 +1,482 @@
+{"job_profiles": [
+    {
+      "JobID": "J01",
+      "JobTitle": "Software Development Engineer (SDE)",
+      "Required_Competencies": [
+        "C006", "C022", "C023", "C024", "C025", "C032", "C033", "C034", 
+        "C044", "C047", "C048", "C053", "C054", "C055", "C147"
+      ]
+    },
+    {
+      "JobID": "J02",
+      "JobTitle": "Front-End Developer",
+      "Required_Competencies": [
+        "C026", "C027", "C028", "C033", "C047", "C048", "C053", "C055", 
+        "C056", "C098", "C109", "C110"
+      ]
+    },
+    {
+      "JobID": "J03",
+      "JobTitle": "Back-End Developer",
+      "Required_Competencies": [
+        "C006", "C022", "C023", "C024", "C025", "C032", "C033", "C034", 
+        "C038", "C039", "C044", "C046", "C047", "C053", "C054"
+      ]
+    },
+    {
+      "JobID": "J04",
+      "JobTitle": "Full-Stack Developer",
+      "Required_Competencies": [
+        "C006", "C026", "C027", "C028", "C032", "C033", "C034", "C038", 
+        "C047", "C048", "C053", "C054", "C055"
+      ]
+    },
+    {
+      "JobID": "J05",
+      "JobTitle": "Mobile App Developer (iOS / Android)",
+      "Required_Competencies": [
+        "C029", "C030", "C031", "C033", "C035", "C047", "C048", "C053", 
+        "C055", "C105", "C109", "C110"
+      ]
+    },
+    {
+      "JobID": "J06",
+      "JobTitle": "DevOps Engineer",
+      "Required_Competencies": [
+        "C014", "C037", "C038", "C039", "C040", "C041", "C043", "C044", 
+        "C049", "C050", "C053", "C054", "C055", "C143"
+      ]
+    },
+    {
+      "JobID": "J07",
+      "JobTitle": "Cloud Engineer (AWS)",
+      "Required_Competencies": [
+        "C015", "C036", "C037", "C038", "C039", "C040", "C041", "C042", 
+        "C043", "C045", "C049", "C050", "C054"
+      ]
+    },
+    {
+      "JobID": "J08",
+      "JobTitle": "Site Reliability Engineer (SRE)",
+      "Required_Competencies": [
+        "C032", "C038", "C039", "C040", "C048", "C049", "C050", "C054", 
+        "C063", "C064", "C106", "C112", "C143", "C158"
+      ]
+    },
+    {
+      "JobID": "J09",
+      "JobTitle": "Systems Engineer",
+      "Required_Competencies": [
+        "C040", "C041", "C042", "C043", "C045", "C050", "C051", "C054", 
+        "C105", "C106", "C115", "C122"
+      ]
+    },
+    {
+      "JobID": "J10",
+      "JobTitle": "Network Engineer",
+      "Required_Competencies": [
+        "C001", "C002", "C003", "C041", "C043", "C045", "C049", "C051", 
+        "C054", "C070", "C078", "C105", "C138"
+      ]
+    },
+    {
+      "JobID": "J11",
+      "JobTitle": "Security Engineer (Cybersecurity)",
+      "Required_Competencies": [
+        "C019", "C040", "C041", "C043", "C044", "C045", "C046", "C054",
+        "C131", "C132", "C134", "C138", "C144", "C149", "C151", "C157", "C158"
+      ]
+    },
+    {
+      "JobID": "J12",
+      "JobTitle": "IT Support Engineer",
+      "Required_Competencies": [
+        "C001", "C002", "C003", "C040", "C041", "C042", "C051", "C052",
+        "C054", "C056", "C105", "C106", "C107", "C115", "C116", "C118"
+      ]
+    },
+    {
+      "JobID": "J13",
+      "JobTitle": "Data Analyst",
+      "Required_Competencies": [
+        "C006", "C007", "C008", "C010", "C034", "C053", "C074", "C075",
+        "C095", "C096", "C097", "C098", "C101", "C117", "C141", "C146", "C172"
+      ]
+    },
+    {
+      "JobID": "J14",
+      "JobTitle": "Data Scientist",
+      "Required_Competencies": [
+        "C006", "C007", "C008", "C009", "C011", "C012", "C013", "C017",
+        "C018", "C034", "C053", "C054", "C090", "C103", "C141", "C147"
+      ]
+    },
+    {
+      "JobID": "J15",
+      "JobTitle": "Data Engineer",
+      "Required_Competencies": [
+        "C006", "C007", "C016", "C024", "C025", "C032", "C033", "C034",
+        "C036", "C038", "C039", "C049", "C053", "C054", "C141", "C143"
+      ]
+    },
+    {
+      "JobID": "J16",
+      "JobTitle": "Machine Learning Engineer",
+      "Required_Competencies": [
+        "C006", "C011", "C012", "C013", "C014", "C024", "C032", "C034",
+        "C038", "C039", "C048", "C049", "C053", "C054", "C112", "C141"
+      ]
+    },
+    {
+      "JobID": "J17",
+      "JobTitle": "Applied Scientist (IA)",
+      "Required_Competencies": [
+        "C006", "C009", "C011", "C012", "C013", "C017", "C018", "C024",
+        "C025", "C032", "C048", "C054", "C111", "C137", "C147", "C177"
+      ]
+    },
+    {
+      "JobID": "J18",
+      "JobTitle": "Business Intelligence Engineer",
+      "Required_Competencies": [
+        "C006", "C008", "C010", "C016", "C034", "C061", "C074", "C075",
+        "C096", "C097", "C098", "C101", "C140", "C141", "C142", "C146"
+      ]
+    },
+    {
+      "JobID": "J19",
+      "JobTitle": "Research Scientist",
+      "Required_Competencies": [
+        "C009", "C011", "C012", "C013", "C017", "C018", "C020", "C101",
+        "C137", "C144", "C146", "C147", "C173", "C176", "C177"
+      ]
+    },
+    {
+      "JobID": "J20",
+      "JobTitle": "AI Product Specialist",
+      "Required_Competencies": [
+        "C011", "C013", "C018", "C059", "C079", "C081", "C083", "C085",
+        "C089", "C095", "C101", "C109", "C110", "C111", "C121", "C175"
+      ]
+    },
+    {
+      "JobID": "J21",
+      "JobTitle": "Technical Program Manager (TPM)",
+      "Required_Competencies": [
+        "C053", "C055", "C059", "C061", "C063", "C064", "C074", "C079", 
+        "C101", "C102", "C103", "C112", "C113", "C114", "C121", "C143", "C175"
+      ]
+    },
+    {
+      "JobID": "J22",
+      "JobTitle": "Engineering Manager",
+      "Required_Competencies": [
+        "C022", "C055", "C057", "C058", "C059", "C100", "C101", "C102", 
+        "C120", "C121", "C145", "C148", "C159", "C162", "C163", "C170", "C174"
+      ]
+    },
+    {
+      "JobID": "J23",
+      "JobTitle": "Solutions Architect",
+      "Required_Competencies": [
+        "C015", "C016", "C022", "C025", "C032", "C033", "C034", "C036", 
+        "C037", "C038", "C043", "C044", "C045", "C048", "C101", "C109"
+      ]
+    },
+    {
+      "JobID": "J24",
+      "JobTitle": "Enterprise Architect",
+      "Required_Competencies": [
+        "C022", "C025", "C034", "C036", "C043", "C045", "C046", "C061", 
+        "C081", "C102", "C123", "C136", "C138", "C149", "C150", "C151"
+      ]
+    },
+    {
+      "JobID": "J25",
+      "JobTitle": "Infrastructure Project Manager",
+      "Required_Competencies": [
+        "C003", "C015", "C037", "C041", "C043", "C059", "C060", "C077", 
+        "C079", "C102", "C113", "C114", "C124", "C126", "C135", "C139"
+      ]
+    },
+    {
+      "JobID": "J26",
+      "JobTitle": "Operations Manager",
+      "Required_Competencies": [
+        "C057", "C059", "C060", "C061", "C062", "C063", "C064", "C068", 
+        "C074", "C079", "C080", "C100", "C112", "C114", "C126", "C143"
+      ]
+    },
+    {
+      "JobID": "J27",
+      "JobTitle": "Area Manager (entrepôt)",
+      "Required_Competencies": [
+        "C051", "C057", "C058", "C062", "C063", "C064", "C068", "C072", 
+        "C077", "C079", "C080", "C100", "C114", "C120", "C147", "C158"
+      ]
+    },
+    {
+      "JobID": "J28",
+      "JobTitle": "Supply Chain Manager",
+      "Required_Competencies": [
+        "C059", "C060", "C061", "C062", "C065", "C066", "C067", "C068", 
+        "C071", "C074", "C076", "C080", "C093", "C102", "C124", "C126"
+      ]
+    },
+    {
+      "JobID": "J29",
+      "JobTitle": "Logistics Coordinator",
+      "Required_Competencies": [
+        "C052", "C069", "C070", "C071", "C072", "C073", "C076", "C078", 
+        "C079", "C080", "C093", "C114", "C116", "C118", "C140", "C141"
+      ]
+    },
+    {
+      "JobID": "J30",
+      "JobTitle": "Transportation Manager",
+      "Required_Competencies": [
+        "C060", "C069", "C070", "C071", "C072", "C078", "C079", "C080", 
+        "C093", "C094", "C122", "C135", "C136", "C138", "C139", "C149"
+      ]
+    },
+    {
+      "JobID": "J31",
+      "JobTitle": "Inventory Planner",
+      "Required_Competencies": [
+        "C008", "C065", "C066", "C067", "C073", "C074", "C075", "C076", 
+        "C095", "C097", "C114", "C140", "C141", "C147"
+      ]
+    },
+    {
+      "JobID": "J32",
+      "JobTitle": "Process Improvement Manager",
+      "Required_Competencies": [
+        "C059", "C061", "C062", "C063", "C064", "C074", "C075", "C099", 
+        "C101", "C103", "C112", "C114", "C143", "C147", "C148"
+      ]
+    },
+    {
+      "JobID": "J33",
+      "JobTitle": "Warehouse Supervisor",
+      "Required_Competencies": [
+        "C057", "C058", "C063", "C068", "C073", "C077", "C079", "C080", 
+        "C100", "C114", "C116", "C118", "C120", "C122"
+      ]
+    },
+    {
+      "JobID": "J34",
+      "JobTitle": "Product Manager",
+      "Required_Competencies": [
+        "C020", "C059", "C079", "C081", "C082", "C083", "C085", "C089", 
+        "C095", "C101", "C102", "C103", "C109", "C110", "C111", "C121"
+      ]
+    },
+    {
+      "JobID": "J35",
+      "JobTitle": "Product Owner",
+      "Required_Competencies": [
+        "C033", "C053", "C055", "C059", "C061", "C083", "C085", "C101", 
+        "C102", "C103", "C109", "C110", "C113", "C121"
+      ]
+    },
+    {
+      "JobID": "J36",
+      "JobTitle": "Program Manager",
+      "Required_Competencies": [
+        "C057", "C059", "C060", "C061", "C064", "C079", "C100", "C101", 
+        "C102", "C113", "C114", "C121", "C145", "C148", "C175"
+      ]
+    },
+    {
+      "JobID": "J37",
+      "JobTitle": "Business Analyst",
+      "Required_Competencies": [
+        "C008", "C010", "C061", "C074", "C075", "C076", "C095", "C096", 
+        "C097", "C101", "C102", "C125", "C141", "C146", "C147"
+      ]
+    },
+    {
+      "JobID": "J38",
+      "JobTitle": "Strategy Analyst",
+      "Required_Competencies": [
+        "C009", "C018", "C081", "C095", "C096", "C097", "C101", "C123", 
+        "C124", "C125", "C137", "C142", "C146", "C147", "C177"
+      ]
+    },
+    {
+      "JobID": "J39",
+      "JobTitle": "Marketing Manager",
+      "Required_Competencies": [
+        "C020", "C081", "C082", "C087", "C088", "C089", "C092", "C095", 
+        "C096", "C100", "C101", "C102", "C119", "C121", "C146"
+      ]
+    },
+    {
+      "JobID": "J40",
+      "JobTitle": "Digital Marketing Specialist",
+      "Required_Competencies": [
+        "C010", "C018", "C020", "C086", "C087", "C088", "C089", "C090", 
+        "C095", "C096", "C098", "C101", "C111", "C119"
+      ]
+    },
+    {
+      "JobID": "J41",
+      "JobTitle": "Growth Manager",
+      "Required_Competencies": [
+        "C008", "C018", "C081", "C086", "C087", "C089", "C090", "C095", 
+        "C096", "C098", "C099", "C101", "C103", "C121", "C141"
+      ]
+    },
+    {
+      "JobID": "J42",
+      "JobTitle": "Category Manager",
+      "Required_Competencies": [
+        "C065", "C071", "C074", "C080", "C081", "C082", "C083", "C084", 
+        "C085", "C093", "C095", "C096", "C097", "C135", "C141"
+      ]
+    },
+    {
+      "JobID": "J43",
+      "JobTitle": "Vendor Manager",
+      "Required_Competencies": [
+        "C060", "C071", "C080", "C084", "C091", "C092", "C093", "C094", 
+        "C102", "C135", "C136", "C138", "C139", "C145", "C174"
+      ]
+    },
+    {
+      "JobID": "J44",
+      "JobTitle": "Account Manager",
+      "Required_Competencies": [
+        "C020", "C080", "C091", "C092", "C094", "C101", "C102", "C110", 
+        "C111", "C118", "C119", "C121", "C146", "C174", "C175"
+      ]
+    },
+    {
+      "JobID": "J45",
+      "JobTitle": "Sales Operations Analyst",
+      "Required_Competencies": [
+        "C008", "C074", "C075", "C091", "C096", "C097", "C098", "C099", 
+        "C101", "C103", "C117", "C141", "C142", "C143", "C147"
+      ]
+    },
+    {
+      "JobID": "J46",
+      "JobTitle": "Customer Service Associate",
+      "Required_Competencies": [
+        "C052", "C056", "C105", "C106", "C109", "C115", "C116", "C118", 
+        "C119", "C122", "C144", "C147", "C148"
+      ]
+    },
+    {
+      "JobID": "J47",
+      "JobTitle": "Customer Experience Manager",
+      "Required_Competencies": [
+        "C110", "C111", "C112", "C113", "C114", "C117", "C118", "C119", 
+        "C120", "C121", "C143", "C146", "C148", "C174", "C175"
+      ]
+    },
+    {
+      "JobID": "J48",
+      "JobTitle": "Technical Support Specialist",
+      "Required_Competencies": [
+        "C002", "C040", "C051", "C052", "C105", "C106", "C109", "C115", 
+        "C116", "C118", "C119", "C122"
+      ]
+    },
+    {
+      "JobID": "J49",
+      "JobTitle": "Escalation Manager",
+      "Required_Competencies": [
+        "C056", "C063", "C106", "C107", "C108", "C114", "C116", "C118", 
+        "C119", "C120", "C121", "C139", "C148", "C158", "C174"
+      ]
+    },
+    {
+      "JobID": "J50",
+      "JobTitle": "Financial Analyst",
+      "Required_Competencies": [
+        "C008", "C009", "C123", "C124", "C125", "C126", "C128", "C140", 
+        "C141", "C142", "C143", "C146", "C147", "C172"
+      ]
+    },
+    {
+      "JobID": "J51",
+      "JobTitle": "Finance Manager",
+      "Required_Competencies": [
+        "C060", "C120", "C123", "C124", "C125", "C126", "C128", "C129", 
+        "C140", "C142", "C145", "C146", "C148", "C173", "C175", "C177"
+      ]
+    },
+    {
+      "JobID": "J52",
+      "JobTitle": "Accountant",
+      "Required_Competencies": [
+        "C114", "C124", "C127", "C128", "C129", "C130", "C140", "C141", 
+        "C144", "C147", "C148", "C173"
+      ]
+    },
+    {
+      "JobID": "J53",
+      "JobTitle": "Internal Auditor",
+      "Required_Competencies": [
+        "C122", "C131", "C132", "C133", "C134", "C141", "C144", "C147", 
+        "C149", "C157", "C172", "C173", "C174", "C177"
+      ]
+    },
+    {
+      "JobID": "J54",
+      "JobTitle": "Legal Counsel",
+      "Required_Competencies": [
+        "C078", "C102", "C135", "C136", "C137", "C138", "C139", "C144", 
+        "C149", "C150", "C157", "C173", "C174", "C177"
+      ]
+    },
+    {
+      "JobID": "J55",
+      "JobTitle": "Compliance Officer",
+      "Required_Competencies": [
+        "C019", "C122", "C130", "C133", "C138", "C144", "C149", "C150", 
+        "C157", "C158", "C173", "C174", "C176", "C177"
+      ]
+    },
+    {
+      "JobID": "J56",
+      "JobTitle": "Risk Manager",
+      "Required_Competencies": [
+        "C123", "C132", "C134", "C151", "C156", "C157", "C158", "C172", 
+        "C173", "C174", "C175", "C177"
+      ]
+    },
+    {
+      "JobID": "J57",
+      "JobTitle": "HR Business Partner",
+      "Required_Competencies": [
+        "C057", "C058", "C100", "C159", "C160", "C161", "C162", "C163", 
+        "C170", "C171", "C172", "C174", "C175", "C177"
+      ]
+    },
+    {
+      "JobID": "J58",
+      "JobTitle": "Talent Acquisition Specialist",
+      "Required_Competencies": [
+        "C020", "C056", "C101", "C164", "C165", "C167", "C171", "C174", 
+        "C175", "C176", "C177"
+      ]
+    },
+    {
+      "JobID": "J59",
+      "JobTitle": "Learning & Development Manager",
+      "Required_Competencies": [
+        "C058", "C100", "C120", "C168", "C169", "C170", "C171", "C174", 
+        "C175", "C176"
+      ]
+    },
+    {
+      "JobID": "J60",
+      "JobTitle": "Sustainability Program Manager",
+      "Required_Competencies": [
+        "C019", "C059", "C061", "C064", "C077", "C078", "C079", "C101", 
+        "C102", "C122", "C138", "C149", "C150", "C173", "C175", "C176"
+      ]
+    }
+  ]}
